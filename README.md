@@ -2,7 +2,10 @@
 
 **Cloud & DevOps Engineer | AWS | Terraform | Docker | CI/CD | Automation**
 
-![Banner](https://raw.githubusercontent.com/Oluwapelumi10/Oluwapelumi10/main/banner.avif)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Oluwapelumi10/Oluwapelumi10/main/banner.png" alt="Oluwapelumi Banner" width="100%" />
+</p>
 
 ---
 
