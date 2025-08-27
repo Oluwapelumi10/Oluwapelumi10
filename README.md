@@ -2,12 +2,11 @@
 
 **Cloud & DevOps Engineer | AWS | Terraform | Docker | CI/CD | Automation**
 
-![Banner](https://your-banner-image-link)  
 
 ---
 
 ## 👋 About Me  
-Hey there! I’m Oluwapelumi — a Cloud & DevOps Engineer passionate about building automated infrastructures, streamlining deployments, and applying security best practices across cloud environments.  
+Hey there! I’m Oluwapelumi, a Cloud & DevOps Engineer passionate about building automated infrastructures, streamlining deployments, and applying security best practices across cloud environments.  
 
 - ☁️ **Cloud & DevOps**: AWS (EC2, RDS, S3, VPC), Terraform, Ansible  
 - ⚡ **Automation Enthusiast**: Docker, Kubernetes, Jenkins, GitHub Actions  
@@ -37,5 +36,3 @@ Hey there! I’m Oluwapelumi — a Cloud & DevOps Engineer passionate about buil
 
 ## 📊 GitHub Stats  
 ![Oluwapelumi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Oluwapelumi10&show_icons=true&theme=radical)  
-
-![Visitor Count](https://komarev.com/ghpvc/?username=Oluwapelumi10&color=blue)
