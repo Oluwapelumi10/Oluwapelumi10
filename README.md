@@ -3,9 +3,9 @@
 **Cloud & DevOps Engineer | AWS | Terraform | Docker | CI/CD | Automation**
 
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Oluwapelumi10/Oluwapelumi10/main/banner.png" alt="Oluwapelumi Banner" width="100%" />
-</p>
+ ![yt](https://github.com/user-attachments/assets/7e6239c1-7b0f-4842-abb3-f0174cbf1209)
+
+
 
 ---
 
