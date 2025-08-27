@@ -3,7 +3,9 @@
 **Cloud & DevOps Engineer | AWS | Terraform | Docker | CI/CD | Automation**
 
 
- ![yt](https://github.com/user-attachments/assets/7e6239c1-7b0f-4842-abb3-f0174cbf1209)
+<p align="right">
+  <img src="https://github.com/user-attachments/assets/7e6239c1-7b0f-4842-abb3-f0174cbf1209" alt="yt" width="600px">
+</p>
 
 
 
